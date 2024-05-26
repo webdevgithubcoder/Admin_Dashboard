@@ -1,14 +1,14 @@
 # Admin_Dashboard
 
 
-ABOUT
+# ***ABOUT***
 
 
 This dashboard is basically a user interface and responsive. 
 It contains different menu and icon.  It manages user orders, store new customers orders and information.
 
 
-WEBSITE (For Large Screen)
+# **WEBSITE (For Large Screen)**
 
 
 ![Screenshot 2024-05-26 180551](https://github.com/webdevgithubcoder/Admin_Dashboard/assets/100611006/1fdeec2d-2bd5-4fde-b8b6-9ff904939d60)
@@ -21,7 +21,7 @@ WEBSITE (For Large Screen)
 
 
 
-RESPONSIVE WEBSITE 
+# **RESPONSIVE WEBSITE** 
 
 
 ![Screenshot 2024-05-26 180732](https://github.com/webdevgithubcoder/Admin_Dashboard/assets/100611006/cc30af5d-ebd9-4ae1-bf69-f9f6674dfdf7)
@@ -34,7 +34,7 @@ RESPONSIVE WEBSITE
 
 
 
-FOR SMALL SCREEN (ipad Mini)
+# **FOR SMALL SCREEN (ipad Mini)**
 
 
 ![image](https://github.com/webdevgithubcoder/Admin_Dashboard/assets/100611006/effd7fe8-542b-49df-ab45-a38e5ea8d60b)
@@ -46,7 +46,7 @@ FOR SMALL SCREEN (ipad Mini)
 
 
 
-FOR SMALL SCREEN (iPhone X)
+# **FOR SMALL SCREEN (iPhone X)**
 
 
 ![image](https://github.com/webdevgithubcoder/Admin_Dashboard/assets/100611006/4a38bca5-0292-4149-bf5f-870a9a181165)
